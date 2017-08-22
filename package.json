@@ -4,6 +4,7 @@
   "description": "HeadFirst DesignPattern In Javascript, or Node.js",
   "main": "index.js",
   "dependencies": {
+    "es6-mixins": "^1.0.2",
     "interface": "^1.2.1"
   },
   "devDependencies": {},
